@@ -17,3 +17,7 @@ Eh, boring.
 ## Day 4
 
 Straightforward, thinking not required
+
+## Day 5
+
+First one with a tiny bit of thinking to do
