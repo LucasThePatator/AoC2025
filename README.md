@@ -29,3 +29,7 @@ Fully an issue of parsing. Meh
 ## Day 7
 
 Struggled a bit more than was reasonable. Still pretty easy
+
+## Day 8
+
+Easy as fuck, but instructions unclear as fuck. "Nothing happens" apparently means stuff still happens.
